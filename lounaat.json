@@ -1,5 +1,5 @@
 {
-  "paivitetty": "2026-07-29T10:00:19.766082",
+  "paivitetty": "2026-07-29T12:05:51.568634",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
@@ -7,8 +7,10 @@
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
       "paiva": "29.7.2026",
-      "ruoat": [],
-      "virhe": "Päivän listaa ei löydy"
+      "ruoat": [
+        "Kesälomaa vietämme 6.7-2.8.2026 välisen ajan."
+      ],
+      "virhe": null
     },
     {
       "nimi": "Ravintola Fero",
@@ -16,8 +18,10 @@
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
       "paiva": "29.7.2026",
-      "ruoat": [],
-      "virhe": "BrowserType.launch: Executable doesn't exist at /Users/nuutti/Library/Caches/ms-playwright/chromium_headless_shell-1217/chrome-headless-shell-mac-x64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+      "ruoat": [
+        "Ravintola Fero on kesätauolla 6.7-2.8 välisenä aikana."
+      ],
+      "virhe": null
     },
     {
       "nimi": "Ravintola Fucina",
@@ -25,8 +29,20 @@
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
       "paiva": "29.7.2026",
-      "ruoat": [],
-      "virhe": "BrowserType.launch: Executable doesn't exist at /Users/nuutti/Library/Caches/ms-playwright/chromium_headless_shell-1217/chrome-headless-shell-mac-x64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+      "ruoat": [
+        "Keitto: Tomaatti-basilikakeitto",
+        "Lounas: Lammaspyörykkä tagine",
+        "Lounas: Perunasose",
+        "Lounas: Riisi",
+        "Lounas: Kebabbia",
+        "Lounas: Höyrytettyä papua",
+        "Lounas: Kasvisvaihtoehto",
+        "Lounas: Sisilialainen kesäkurpitsamuhennos",
+        "Lounas: Pizza",
+        "Lounas: Pizza Margherita & Pizza Prosciutto",
+        "Jälkiruoka: Mango-suklaavaahto"
+      ],
+      "virhe": null
     },
     {
       "nimi": "Factory Pitäjänmäki",
