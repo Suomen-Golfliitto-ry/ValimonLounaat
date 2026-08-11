@@ -1,25 +1,25 @@
 {
-  "paivitetty": "2026-08-07T10:00:37.636723",
+  "paivitetty": "2026-08-11T10:00:59.912815",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
       "url": "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/helsinki/lasihelmi/",
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
-      "paiva": "7.8.2026",
+      "paiva": "11.8.2026",
       "ruoat": [
-        "Broileri-pannupizzaa ja fetaa",
-        "Pepperonipannupizzaa ja ananasta",
-        "Aiolia",
-        "Rucolaa",
-        "Valkosipulia",
-        "Paahdettua kirjolohta",
-        "Pinaatti-perunasosetta",
-        "Sitruunajogurttikastiketta",
-        "Tilliöljyä",
-        "Mausteista härkis-bataattipeltiä, pikkelöityä punasipulia ja nachoja",
-        "Herkkusienikeittoa",
-        "Tiikerikakkua"
+        "Lasihelmen isot jauhelihapyörykät",
+        "Täyteläistä mustapippurikastiketta",
+        "Kermaperunoita",
+        "Hillottua puolukkaa",
+        "Broileria ja penneä limonellokastikkeessa",
+        "Pikkelöityä chiliä",
+        "Pastajuustoa",
+        "Lasihelmen Bataatti-maissipihvejä",
+        "Porkkana-kikhernehummusta",
+        "Paahdettua perunaa",
+        "Linssisosekeittoa",
+        "Vadelmavispipuuroa"
       ],
       "virhe": null
     },
@@ -28,27 +28,37 @@
       "url": "https://ravintolapalvelut.iss.fi/fero/",
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
-      "paiva": "7.8.2026",
-      "ruoat": [],
-      "virhe": "Ravintola suljettu"
+      "paiva": "11.8.2026",
+      "ruoat": [
+        "Lounas: Kreikkalaistyylistä pyttipannua tofulla",
+        "Lounas: Kermaista kylmäsavulohipastaa ja tilliöljyä",
+        "Lounas: Feron jätti-naudanlihapyöryköitä, pippurikastiketta ja kermaperunoita",
+        "Keitto: Tomaattista linssikeittoa",
+        "Jälkiruoka: Mansikka-raparperipaistosta ja vaniljavaahtoa",
+        "Salaatti: Mozzarella-salaatti/Kana-caeasar- salaatti",
+        "Burgeri: Pekoniburgeri, ranskalaisia ja majoneesia",
+        "A La Carte: Lehtipihvi, Feron maustevoita ja ranskalaisia"
+      ],
+      "virhe": null
     },
     {
       "nimi": "Ravintola Fucina",
       "url": "https://ravintolapalvelut.iss.fi/ravintola-fucina/",
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
-      "paiva": "7.8.2026",
+      "paiva": "11.8.2026",
       "ruoat": [
-        "Keitto: Pinaattikeitto",
-        "Lounas: Pinaatti-savukirjohipastakastike",
-        "Lounas: Bolognesepastaa",
-        "Lounas: Spaghettia",
-        "Lounas: Sitruuna-basilikaraviolit",
+        "Keitto: Paahdettua paprikakeittoa",
+        "Lounas: Yrttimakkaraa, Salsiccia alle erbe mediterranee",
+        "Lounas: Kanttarelli-kanakastike",
+        "Lounas: Salviavoissa paistettuja perunagnocceja",
+        "Lounas: Paahdettua uunijuuresta & perunaa",
+        "Lounas: Kukkakaaligratiinia",
         "Lounas: Kasvisvaihtoehto",
-        "Lounas: Avokado-tomaatti-Välimeren juusto-pastakastike",
+        "Lounas: Halloumi-kasvislasagne",
         "Lounas: Pizza",
-        "Lounas: Pizza Margherita & Pizza Salami",
-        "Jälkiruoka: Jäätelöbaari"
+        "Lounas: Pizza Margherita & Pizza Formaggio",
+        "Jälkiruoka: Talon omenapiirakkaa & kardemummavaahtoa"
       ],
       "virhe": null
     },
@@ -57,15 +67,15 @@
       "url": "https://ravintolafactory.com/lounasravintolat/ravintolat/helsinki-pitajanmaki/",
       "auki": "10:00–14:00",
       "hinta": "13,20 €",
-      "paiva": "7.8.2026",
+      "paiva": "11.8.2026",
       "ruoat": [
-        "Mausteinen vihreä linssikeitto",
-        "Mureaa Kievin kanaa yrttivoitäytteellä (VL+VS) rapeat ranskalaiset",
-        "Pitkään kypsennettyä naudan flank steakia punaviini-herukkakastikkeessa",
-        "Pepperoni-paprikapizza tuoreella rucolalla",
-        "Intialainen bataattikorma kaurasuikaleilla ja tuoreella korianterilla (VE+G+VS) basmatiriisi",
-        "Mehevä mustikka-vadelmapiirakka (L) vaniljakastike",
-        "Henkilökuntamme auttaa mielellään allergeeneihin ja raaka-aineisiin liittyvissä kysymyksissä."
+        "Samettinen Koskenlaskija-parsakaalikeitto",
+        "Mureaa broilerin rintafileetä tandoori-kastikkeessa (L+G+VS) basmatiriisi",
+        "Täyteläistä Burgundinpataa punaviinissä ja yrteillä haudutettuna (M+G+VS+liha 100% nauta)",
+        "uuden sadon perunat",
+        "Factoryn perinteiset pinaattiohukaiset (L) puolukkahillo",
+        "Mausteinen tofu-kasvis stir-fry chilillä ja pähkinöillä (VE+G+VS + sis. pähkinää)",
+        "Factoryn herkullinen jäätelöbaari"
       ],
       "virhe": null
     },
@@ -74,13 +84,18 @@
       "url": "https://www.sodexo.fi/ravintolat/ravintola-valaja",
       "auki": "10:30–13:00",
       "hinta": "14,00 €",
-      "paiva": "7.8.2026",
+      "paiva": "11.8.2026",
       "ruoat": [
-        "Buffet: Valajan naudanlihahampurilainen BBQ-kastikkeella ja rapeilla maalaisranskalaisilla",
-        "Buffet: Hampurilainen punajuuri-vuohenjuustolla ja rapeilla maalaisranskalaisilla  ",
-        "Lounassalaatti: Delisalaatti vaihtuvilla kasviksilla ja hedelmillä ja joka päivä vähintään kaksi erilaista proteiinia",
-        "Keittolounas: Paahdettua paprikakeittoa",
-        "Jälkiruoka: Suklaamoussea"
+        "Buffet: Paneroitua kampelaleikettä ja remouladekastiketta",
+        "Buffet: Shawarma-kanaa ja kukkakaali-minttusalaattia",
+        "Buffet: Falafelpyöryköitä",
+        "Lisäkkeet: Hummusta ja jogurttikastiketta",
+        "Lisäkkeet: Basmatiriisiä ja Skånen perunaa",
+        "Lounassalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erilaista proteiinia",
+        "Kasviskeitto: Punajuurikeittoa",
+        "Bowl: Valajan Poke Bowl lohesta",
+        "Bowl: Valajan Poke Bowl tofulla ja herkkusienillä",
+        "Dessert: Mustikkajogurttia talon tapaan"
       ],
       "virhe": null
     },
@@ -89,7 +104,7 @@
       "url": "https://www.ravintolatali.fi/lounas",
       "auki": "11:00–14:00",
       "hinta": "15,00 €",
-      "paiva": "7.8.2026",
+      "paiva": "11.8.2026",
       "ruoat": [
         "(Ruokalista julkaistaan kuvana – katso ravintolan sivu)"
       ],
