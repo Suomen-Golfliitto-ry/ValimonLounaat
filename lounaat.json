@@ -1,22 +1,23 @@
 {
-  "paivitetty": "2026-08-13T10:00:32.002783",
+  "paivitetty": "2026-08-14T10:03:31.408619",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
       "url": "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/helsinki/lasihelmi/",
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
-      "paiva": "13.8.2026",
+      "paiva": "14.8.2026",
       "ruoat": [
-        "Jauheliha-burritos",
-        "Riisiä",
-        "Lasihelmen kirjolohipihvejä ja tuoretta tilliä",
-        "Perunamuusia",
-        "Tillijogurttia",
-        "Paneer Koseli -leipäjuustokastiketta",
-        "Hernesosekeittoa",
-        "Tyrni-jogurttipannacottaa",
-        "Kinuskikastiketta"
+        "Briossi BRG",
+        "McFood&Co burgerikastiketta",
+        "Paahdettua perunaa,chilimajoneesia ja parmesania",
+        "Wokattua kirjolohta, nuudelia, kasviksia ja teriyakikastiketta L,A,M",
+        "Maustettua nyhtökauraa ja kevätsipulia",
+        "Täysjyvävehnätortillaa",
+        "Tuoretomaattisalsaa",
+        "Guacamolejogurttia",
+        "Kermaista Myskikurpitsasosekeittoa",
+        "Food & Co Jäätelöbuffet"
       ],
       "virhe": null
     },
@@ -25,13 +26,13 @@
       "url": "https://ravintolapalvelut.iss.fi/fero/",
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
-      "paiva": "13.8.2026",
+      "paiva": "14.8.2026",
       "ruoat": [
-        "Lounas: Halloumi-kesäkurpitsavuokaa",
-        "Lounas: Porsaanleikettä, dijon-kermakastikketta ja ranskalaisia",
-        "Lounas: Kampelaa kermaisessa tilli-valkoviinikastikkeessa ja perunoita",
-        "Keitto: Porkkana-inkiväärisosekeittoa",
-        "Jälkiruoka: Talon pannukakkua, hilloa ja kermavaahtoa (saatavana gluteeniton jälkiruoka)",
+        "Lounas: Nachokuorrutettua tofua, paprikamajoneesia ja paahdettuja perunoita",
+        "Lounas: Kebabia, ranskalaisia ja valkosipulijogurttia",
+        "Lounas: Ylikypsää porsaanniskaa makeassa soija-sesamkastikkeessa ja paahdettuja perunoita",
+        "Keitto: Palsternakkasosekeittoa",
+        "Jälkiruoka: Herkkubuffet (saatavana gluteenittomia herkkuja)",
         "Salaatti: Mozzarella-salaatti/Kana-caeasar- salaatti",
         "Burgeri: Pekoniburgeri, ranskalaisia ja majoneesia",
         "A La Carte: Lehtipihvi, Feron maustevoita ja ranskalaisia"
@@ -43,18 +44,18 @@
       "url": "https://ravintolapalvelut.iss.fi/ravintola-fucina/",
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
-      "paiva": "13.8.2026",
+      "paiva": "14.8.2026",
       "ruoat": [
-        "Keitto: Herkkusienikeittoa",
-        "Lounas: Toscanalaista kanaa",
-        "Lounas: Tomaatti-rucolarisottoa",
-        "Lounas: Valkosipuliperunat",
-        "Lounas: Paahdettua paprikaa, sipulia ja kirsikkatomaattia",
+        "Keitto: Karamellisoitua porkkanasosekeittoa",
+        "Lounas: Nyhtöpossugremolataa",
+        "Lounas: Katkarapupasta",
+        "Lounas: Sitruuna-basilikaraviolit",
+        "Lounas: Spagettia",
         "Lounas: Kasvisvaihtoehto",
-        "Lounas: Linssimureketta & romescokastiketta",
+        "Lounas: Kanttarellikastike",
         "Lounas: Pizza",
-        "Lounas: Pizza Margherita & Pizza Salami",
-        "Jälkiruoka: Ruusunmarjapannacotta"
+        "Lounas: Pizza Margherita & Pizza Pepperoni",
+        "Jälkiruoka: Puolukkapaistosta suolakinuskilla & kermavaahdolla"
       ],
       "virhe": null
     },
@@ -63,14 +64,15 @@
       "url": "https://ravintolafactory.com/lounasravintolat/ravintolat/helsinki-pitajanmaki/",
       "auki": "10:00–14:00",
       "hinta": "13,20 €",
-      "paiva": "13.8.2026",
+      "paiva": "14.8.2026",
       "ruoat": [
-        "Perinteinen hernekeitto savupotkalla (M+G) pilkottua sipulia",
-        "Turkkilaista kebabia täyteläisessä yrtti-tomaattikastikkeessa (M+G+VS) kermaviilikastike (L+G+VS) basmatiriisi",
-        "Mehevää kanan paistileikettä bearnaisekastikkeessa (L+G+VS) basmatiriisi",
-        "Graavilohi-purjopasta Koskenlaskija-kastikkeella",
-        "Kasvis-kaura-proteiinisuikale -stroganoff",
-        "Factoryn letut (L) oman keittiön mansikkahillo (VE+G) vaniljavaahto (L+G) jäätelö"
+        "Kermainen lohikeitto runsaalla tuoreella tillillä",
+        "Factoryn mehevät lihapullat tummassa balsamico-rosmariinikastikkeessa (L+G+VS) perunamuusi",
+        "Rapea kanan Cordon Bleu juustotäytteellä (VL) basmatiriisi (VE+G) chilidippi",
+        "Kinkku-ananas-Aurajuustopizza rucolalla",
+        "Grillattua tofua ja uunikasviksia korianteri-valkosipuliöljyssä",
+        "Baked Alaska -uunijäätelökakku",
+        "Henkilökuntamme auttaa mielellään allergeeneihin ja raaka-aineisiin liittyvissä kysymyksissä."
       ],
       "virhe": null
     },
@@ -79,17 +81,15 @@
       "url": "https://www.sodexo.fi/ravintolat/ravintola-valaja",
       "auki": "10:30–13:00",
       "hinta": "14,00 €",
-      "paiva": "13.8.2026",
+      "paiva": "14.8.2026",
       "ruoat": [
-        "Buffet: Boeuf Bourguignon, nautaa punaviinipadassa",
-        "Buffet: Hernekeittoa savuporsaasta ja tuoretta sipulia",
-        "Buffet: Sitruuna-savulohipastaa",
-        "Lisäkkeet: Riisiä ja päivän paistettuja kasviksia",
-        "Lounassalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erilaista proteiinia",
-        "Kasviskeitto: Bataattikeittoa",
-        "Bowl: Porsasta Teriyaki-chilikastikkeella ja kasviksilla sekä jasmiiniriisiä ja tuoreita yrttejä",
-        "Bowl: Tofua Teriyaki-chilikastikkeella ja kasviksilla sekä jasmiiniriisiä ja tuoreita yrttejä",
-        "Dessert: Pannukakkua, hilloa ja kermavaahtoa"
+        "Buffet: Perjantain Bowl Buffet",
+        "Buffet: Massaman-currya kanalla tai tofulla, jasmiiniriisiä ja tuoreita yrttejä",
+        "Bowl: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erilaista proteiinia",
+        "Kasviskeitto: Tom Kha Tofu -keittoa",
+        "Bowl: Valajan Classic burger sipuli-pekonihillolla, Monterrey Jack -juustolla ja maalaisperunoilla",
+        "Bowl: Portobello burger sipulihillolla ja maalaisperunoilla",
+        "Dessert: Vanilja-mangopannacottaa"
       ],
       "virhe": null
     },
@@ -98,7 +98,7 @@
       "url": "https://www.ravintolatali.fi/lounas",
       "auki": "11:00–14:00",
       "hinta": "15,00 €",
-      "paiva": "13.8.2026",
+      "paiva": "14.8.2026",
       "ruoat": [
         "(Ruokalista julkaistaan kuvana – katso ravintolan sivu)"
       ],
