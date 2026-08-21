@@ -1,24 +1,19 @@
 {
-  "paivitetty": "2026-08-20T10:01:33.363931",
+  "paivitetty": "2026-08-21T10:03:06.403606",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
       "url": "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/helsinki/lasihelmi/",
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
-      "paiva": "20.8.2026",
+      "paiva": "21.8.2026",
       "ruoat": [
-        "Paahdettua kirjolohta",
-        "Sinappista kananmuna-kermaviilikastiketta",
+        "Pizza buffee, sisältää myös kasvispizzaa",
+        "Puna-ahventa ja piparjuurihollandaisea",
         "Perunamuusia",
-        "Lasihelmen rapeaksi paistettuja paneroituja broilerimurekepihvejä",
-        "Currymajoneesia",
-        "Paistettua riisiä",
-        "Fetaa, paahdettuja kasviksia ja rigatonipastaa",
-        "Hernesosekeittoa",
-        "Meidän keittiön pannukakkua",
-        "Kermavaahtoa",
-        "Vadelmahilloa"
+        "Briossi BRG,paahdettua halloumia ja paprikaa",
+        "Täyteläistä Bataattikeittoa",
+        "Food&Co irtokarkki ja herkkubuffa"
       ],
       "virhe": null
     },
@@ -27,13 +22,13 @@
       "url": "https://ravintolapalvelut.iss.fi/fero/",
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
-      "paiva": "20.8.2026",
+      "paiva": "21.8.2026",
       "ruoat": [
-        "Lounas: Kasvis-kvinoapihvejä ja sitrusjogurttikastikketta",
-        "Lounas: Artesaanimakkaroita haudutetulla hapankaalilla ja ranskalaisia",
-        "Lounas: Broileri Saltimboccaa Feron tapaan ja paprikariisiä",
-        "Keitto: Kermaista tattikeittoa",
-        "Jälkiruoka: Talon pannukakkua, marjahilloa ja kermavaahtoa (saatavana gluteenittomia lettuja)",
+        "Lounas: Savutofu \"Carbonaraa\"",
+        "Lounas: Naudanliha-teriyakiwokki nuudelilla ja tuoreita kasviksia",
+        "Lounas: Burgeribuffa rapealla kanapihvillä ja currymajoneesia",
+        "Keitto: Kermaista kasvissosekeittoa",
+        "Jälkiruoka: Jäätelöbuffet, kastikkeita ja strösseliä",
         "Salaatti: Katkarapusalaatti / Hedelmäinen juustosalaatti",
         "Burgeri: Tuplajuustoburgeri, ranskalaisia ja majoneesia",
         "A La Carte: Lehtipihvi, Feron maustevoita ja ranskalaisia"
@@ -45,18 +40,18 @@
       "url": "https://ravintolapalvelut.iss.fi/ravintola-fucina/",
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
-      "paiva": "20.8.2026",
+      "paiva": "21.8.2026",
       "ruoat": [
-        "Keitto: Sitruunainen parsakeitto",
-        "Lounas: Lindströmminpihvejä",
-        "Lounas: Aurajuustopyöryköitä & pippurikastiketta",
-        "Lounas: Uunijuurekset",
+        "Keitto: Juuresosekeittoa primavera",
+        "Lounas: Jauhelihalasagnea & rucola-kirsikkatomaattisalaattia",
+        "Lounas: Sitruuna-yrttikanaa",
+        "Lounas: Spagettia",
         "Lounas: Perunamuusia",
         "Lounas: Kasvisvaihtoehto",
-        "Lounas: Perunamoussaka",
+        "Lounas: Pasta Caponata",
         "Lounas: Pizza",
         "Lounas: Pizza Margherita & Pizza Rapu",
-        "Jälkiruoka: Vadelma-chiahillo kerrosjogurtti"
+        "Jälkiruoka: Kauraomenapaistosta suolakinuskilla & vaniljajäätelöllä"
       ],
       "virhe": null
     },
@@ -65,14 +60,15 @@
       "url": "https://ravintolafactory.com/lounasravintolat/ravintolat/helsinki-pitajanmaki/",
       "auki": "10:00–14:00",
       "hinta": "13,20 €",
-      "paiva": "20.8.2026",
+      "paiva": "21.8.2026",
       "ruoat": [
-        "Perinteinen hernekeitto savupotkalla (M+G) pilkottua sipulia",
-        "Mureaa toscanan kanan fileetä aurinkokuivatuilla tomaateilla ja basilikalla (L+G+VS) basmatiriisi",
-        "Mureat porsaan ribsit thaimaalaiseen tapaan sitruunaruoho-glaseerauksella (M+G+VS) paahdetut lohkoperunat",
-        "Sinihomejuustolla gratinoitu juuresvuoka",
-        "Pehmeä bataatti-linssi -dal tuoreella korianterilla ja tofulla (VE+G+VS) basmatiriisi",
-        "Factoryn letut (L) oman keittiön mansikkahillo (VE+G) vaniljavaahto (L+G) jäätelö"
+        "Kermainen lohikeitto runsaalla tuoreella tillillä",
+        "Rapeat paneroidut porsaanleikkeet (M) kurkkumajoneesi (VE+G) ranskalaiset perunat",
+        "Mehevää mango-currykanaa täyteläisessä kookoskastikkeessa (M+G+VS) basmatiriisi",
+        "Kebab-jalapeno pizza tuoreella rucolalla",
+        "Grillattua Härkistä ja vihanneksia salsa verde -kastikkeessa",
+        "Mansikka-tuorejuustoviinerit",
+        "Henkilökuntamme auttaa mielellään allergeeneihin ja raaka-aineisiin liittyvissä kysymyksissä."
       ],
       "virhe": null
     },
@@ -81,17 +77,14 @@
       "url": "https://www.sodexo.fi/ravintolat/ravintola-valaja",
       "auki": "10:30–13:00",
       "hinta": "14,00 €",
-      "paiva": "20.8.2026",
+      "paiva": "21.8.2026",
       "ruoat": [
-        "Buffet: Valajan jättilihapyörykät tomaattikastikkeessa",
-        "Buffet: Kananpoika-chorizo-jambalayaa ja valkosipuli aiolia",
-        "Buffet: Halloumi-punajuuripihvejä ja kermaviilikastiketta",
-        "Lisäkkeet: Perunamuusia, riisiä ja päivän paistettuja kasviksia",
-        "Kasviskeitto: Pinaattikeittoa & kananmunaa",
+        "Buffet: Perjantain Bowl Buffet: Rakenna oma broileri \"Bang Bang\" kulhosi",
+        "Kasviskeitto: Miso-kurpitsakeittoa",
         "Salaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erilaista proteiinia",
-        "Bowl: Kananpoikaa seesami-valkosipulikastikkeella ja thai-kurkkusalaatilla, jasmiiniriisiä & tuoreita yrttejä",
-        "Bowl: Tofua seesami-valkosipulikastikkeella ja thai-kurkkusalaatilla, jasmiiniriisiä & tuoreita yrttejä",
-        "Dessert: Marjasmoothie"
+        "Bowl: Kolmen juuston naudanlihahampurilainen sekä rapeat maalaisranskalaiset",
+        "Bowl: Halloumihampurilainen sekä rapeat maalaisranskalaiset",
+        "Dessert: Mustikkahyvettä"
       ],
       "virhe": null
     },
@@ -100,7 +93,7 @@
       "url": "https://www.ravintolatali.fi/lounas",
       "auki": "11:00–14:00",
       "hinta": "15,00 €",
-      "paiva": "20.8.2026",
+      "paiva": "21.8.2026",
       "ruoat": [
         "(Ruokalista julkaistaan kuvana – katso ravintolan sivu)"
       ],
