@@ -121,8 +121,23 @@ def scrape_iss(nimi, url, auki, hinta):
             browser.close()
 
         # Parsitaan teksti riveittäin
-        KATEGORIAT = {"Lounas", "Kasvislounas", "Keitto", "Grilli",
-                      "Jälkiruoka", "Salaatti", "Burgeri", "A La Carte"}
+        KATEGORIAT = {"lounas", "kasvislounas", "keitto", "grilli",
+                      "jälkiruoka", "salaatti", "burgeri", "a la carte"}
+
+        def kategoria(rivi):
+            """Tunnista kategoriaotsikko ja palauta siisti nimi, muuten None.
+
+            ISS liittää otsikkoon usein teemaviikon, esim.
+            'Lounas/Synttäriviikko' → 'Lounas'. Aiemmin verrattiin tarkkaan
+            merkkijonoon, jolloin koko lounasosio jäi keräämättä.
+            Numeroita sisältävät rivit (aukiolo 'Lounas 10.30-13.30') ja pitkät
+            rivit eivät voi olla otsikoita – tämä pitää tunnistuksen turvallisena.
+            """
+            if len(rivi) > 40 or any(m.isdigit() for m in rivi):
+                return None
+            kanta = re.split(r"[/|,–—-]", rivi, maxsplit=1)[0]
+            kanta = kanta.strip().rstrip(":").strip()
+            return kanta if kanta.lower() in KATEGORIAT else None
         OHITA = {"L = Laktoositon", "Dieettimerkinnät", "Valitse tulostusnäkymä",
                  "Viikon ruokalista", "Päivän ruokalista", "Tulosta ruokalista",
                  "Edellinen viikko", "Seuraava viikko", "Maanantai", "Tiistai",
@@ -165,9 +180,10 @@ def scrape_iss(nimi, url, auki, hinta):
 
         for rivi in rivit:
             # Aloita kerays kun löydetään ensimmäinen kategoria
-            if rivi in KATEGORIAT:
+            kat = kategoria(rivi)
+            if kat:
                 keraysta = True
-                current_kat = rivi
+                current_kat = kat
                 continue
             # Lopeta kun tullaan footer-teksteihin
             if any(rivi.startswith(o) for o in OHITA):
