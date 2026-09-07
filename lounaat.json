@@ -1,26 +1,22 @@
 {
-  "paivitetty": "2026-09-04T10:00:39.982817",
+  "paivitetty": "2026-09-07T10:00:42.978222",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
       "url": "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/helsinki/lasihelmi/",
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
-      "paiva": "4.9.2026",
+      "paiva": "7.9.2026",
       "ruoat": [
-        "Mausteista härkispeltiä, pikkelöityä punasipulia ja nachoja",
-        "Herkkusienikeittoa",
-        "Broileri-sinihomejuusto-ananaspizzaa",
-        "Pepperonipannupizzaa",
-        "Mozzarella-kasvispizzaa L,A,VS",
-        "Valkosipulia",
-        "Aiolia",
-        "Paprikamajoneesia",
-        "Paahdettua kirjolohta",
-        "Sitruunajogurttikastiketta",
-        "Tilliöljyä",
-        "Pinaatti-perunasosetta",
-        "Talon omenapiirakkaa ja vaniljakastiketta L,A"
+        "Puna-ahventa ja sitruuna-smetanakastiketta",
+        "Perunamuusia",
+        "Sitruunaa",
+        "Artesaanimakkaraa, salsiccia ja bratvurstia",
+        "Smetanassa haudutettua hapankaalia ja omenaa",
+        "Tofua, kasviksia ja pähkinää -Tahu goreng Indonesia",
+        "Riisiä",
+        "Purjo-perunasosekeittoa",
+        "Mansikkarahkaa"
       ],
       "virhe": null
     },
@@ -29,14 +25,14 @@
       "url": "https://ravintolapalvelut.iss.fi/fero/",
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
-      "paiva": "4.9.2026",
+      "paiva": "7.9.2026",
       "ruoat": [
-        "Lounas: DIY Mifu-kasvisfajitas, salsaa, cheddarkastiketta ja creme fraichea (saatavana gluteenittomana)",
-        "Lounas: DIY Kanafajitas salsaa, cheddarkastiketta ja creme fraichea (saatavana gluteenittomana)",
-        "Lounas: Perinteistä makkarakastiketta ja perunamuusia (saatavana gluteenittomana)",
-        "Keitto: Kermaista tomaattikeittoa",
-        "Jälkiruoka: Jäätelöbuffet herkkulisukkeilla",
-        "Salaatti: Lohisalaatti/Halloum-juustosalaatti",
+        "Lounas: Kermaista linssi-kukkakaalicurrya ja mausteriisiä",
+        "Lounas: Feron paistettua kampelaa, tilliperunoita ja tartarkastiketta",
+        "Lounas: Mausteista Diavola jauhelihakastiketta ja spaghettia",
+        "Keitto: Palsternakkasosekeittoa",
+        "Jälkiruoka: Omena-kaurapaistosta ja kermavaahtoa",
+        "Salaatti: Kana-caesar- salaatti/Mozzarella-salaatti",
         "Burgeri: Aurajuusto-burgeri ja ranskalaisia",
         "A La Carte: Lehtipihvi, Feron maustevoita ja ranskalaisia"
       ],
@@ -47,18 +43,19 @@
       "url": "https://ravintolapalvelut.iss.fi/ravintola-fucina/",
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
-      "paiva": "4.9.2026",
+      "paiva": "7.9.2026",
       "ruoat": [
-        "Keitto: Sitruunainen parsakaalikeitto",
-        "Lounas: Carbonara kastike",
-        "Lounas: Palermon kanapasta",
-        "Lounas: Pastaa",
-        "Lounas: Punajuuriraviolit",
+        "Keitto: Kermainen kasvissosekeitto",
+        "Lounas: Pekoni-jauhelihapihvejä & punasipuli-smetanaa",
+        "Lounas: Gnocchi-pyttipannua Surf'N Turf",
+        "Lounas: Linguine-pastaa",
+        "Lounas: Valkosipulikermaperunaa",
+        "Lounas: Paahdettua bataattia ja auringonkukkaa",
         "Lounas: Kasvisvaihtoehto",
-        "Lounas: Halloumilla täytetyt paprikat",
+        "Lounas: Täytettyä kasvismunakasta",
         "Lounas: Pizza",
         "Lounas: Pizza Margherita & Pizza Pollo",
-        "Jälkiruoka: Jäätelöbaari"
+        "Jälkiruoka: Appelsiinirahkaa"
       ],
       "virhe": null
     },
@@ -67,15 +64,14 @@
       "url": "https://ravintolafactory.com/lounasravintolat/ravintolat/helsinki-pitajanmaki/",
       "auki": "10:00–14:00",
       "hinta": "13,20 €",
-      "paiva": "4.9.2026",
+      "paiva": "7.9.2026",
       "ruoat": [
-        "Kermainen lohikeitto runsaalla tuoreella tillillä",
-        "Täyteläinen Butter Chicken paahdetuilla cashewpähkinöillä (L+G+VS+sis.pähkinä) basmatiriisi",
-        "Hitaasti kypsennettyä naudanpaistia punaviiini-timjamikastikkeella (L+G) kermaperunat",
-        "Pulled pork-sipuli-jalapenopizza tuoreella rucolalla",
-        "Paahdettua porkkanaa, kesäkurpitsaa ja kikherneitä balsamicokastikkeella ja herneenversoilla",
-        "Domino-rahkamousse",
-        "Henkilökuntamme auttaa mielellään allergeeneihin ja raaka-aineisiin liittyvissä kysymyksissä."
+        "Siskonmakkarakeitto",
+        "Paistettua lohta chimichurri-glaseerauksella (M+G+VS) perunamuusi (L+G) lime-kermaviili",
+        "Grillattua porsaan ulkofileetä kermaisella rosepippurikastikkeessa (L+G) basmatiriisi",
+        "Täyteläinen Palak Paneer (L+G+VS) basmatiriisi",
+        "Paahdetut uunijuurekset nyhtö kauralla ja inkiväärikastikkeella",
+        "Talon pannukakkua (L) mansikkahillo (VE+G) vaniljavaahto"
       ],
       "virhe": null
     },
@@ -84,14 +80,18 @@
       "url": "https://www.sodexo.fi/ravintolat/ravintola-valaja",
       "auki": "10:30–13:00",
       "hinta": "14,00 €",
-      "paiva": "4.9.2026",
+      "paiva": "7.9.2026",
       "ruoat": [
-        "Buffa: Friday Thai curry jasminriisillä ja tuoreilla yrteillä",
-        "Kasviskeitto: Maukas inkivääri-porkkanakeitto",
-        "Bowl: Valajan \"Classic\" burger, 100% naudanlihapihvillä, pekoni-sipulihillolla & maalaisranskalaisilla",
-        "Bowl: Vege hampurilainen punajuuripihvillä & paistetulla vuohenjuustolla, sekä maalaisranskalaisilla",
-        "Lounassalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erillaista proteiinia",
-        "Jälkiruoka: Mangomoussea"
+        "Buffet: Paistettua broileria & chimichurri-kastiketta",
+        "Buffet: Bouillabaissea & sahrami-aiolia",
+        "Buffet: Herkkusieni-siitakepastaa",
+        "Lisäkkeet: Tartarkastiketta & vegaanista aiolia",
+        "Lisäkkeet: Päivän kasviksia, paahdettua perunaa ja riisiä",
+        "Kasviskeitto: Bataattikeittoa",
+        "Bowl: Punainen Thai Curry jasminriisillä & tuoreilla yrteillä",
+        "Bowl: Punainen Thai Curry tofulla, jasminriisillä & tuoreilla yrteillä",
+        "Lounassalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erilaista proteiinia",
+        "Dessert: Jäätelöitä ja mansikkahilloa"
       ],
       "virhe": null
     },
@@ -100,7 +100,7 @@
       "url": "https://www.ravintolatali.fi/lounas",
       "auki": "11:00–14:00",
       "hinta": "15,00 €",
-      "paiva": "4.9.2026",
+      "paiva": "7.9.2026",
       "ruoat": [
         "(Ruokalista julkaistaan kuvana – katso ravintolan sivu)"
       ],
