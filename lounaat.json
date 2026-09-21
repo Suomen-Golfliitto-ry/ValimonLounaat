@@ -1,21 +1,21 @@
 {
-  "paivitetty": "2026-09-18T10:00:27.209468",
+  "paivitetty": "2026-09-21T10:01:09.999308",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
       "url": "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/helsinki/lasihelmi/",
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
-      "paiva": "18.9.2026",
+      "paiva": "21.9.2026",
       "ruoat": [
-        "Possunleike keittiön tapaan",
-        "Grillattua ananasta",
-        "McFood&Co Majo",
-        "Uuniperunaa",
-        "Puna-ahventa ja piparjuurihollandaisea",
-        "Briossi BRG, paahdettua halloumia ja kukkakaalia",
-        "Täyteläistä Bataattisosekeittoa",
-        "Pappilanhätävara L,A"
+        "Rapeaa kanaa - Crispy chicken",
+        "Murskattua perunaa, juustoa ja yrttejä",
+        "Tomaattimajoneesia",
+        "Smetana härkää",
+        "Riisiä",
+        "Paistettuja nuudeleita ja sticky Mifua",
+        "Juustoista kasvissosekeittoa",
+        "Minttu-suklaarahkaa L,A"
       ],
       "virhe": null
     },
@@ -24,53 +24,32 @@
       "url": "https://ravintolapalvelut.iss.fi/fero/",
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
-      "paiva": "18.9.2026",
-      "ruoat": [
-        "Lounas: Paneroitua tofua, vegaanista aiolia ja paahdettuja perunoita",
-        "Lounas: Pizzabuffet: Jauheliha-punasipuli- pizza ja Kolmen juuston pizza yrttiöljyllä (saatavana gluteenittomana)",
-        "Lounas: Lyonin kanaa ja mausteriisiä",
-        "Keitto: Maa-artisokkakeittoa",
-        "Jälkiruoka: Jäätelöbuffet herkkulisukkeilla",
-        "Salaatti: Katkarapu-caesar- salaatti/Vuohenjuusto-salaatti",
-        "Burgeri: Pekoniburgeri, ranskalaisia ja majoneesia",
-        "A La Carte: Lehtipihvi, Feron maustevoita ja ranskalaisia"
-      ],
-      "virhe": null
+      "paiva": "21.9.2026",
+      "ruoat": [],
+      "virhe": "BrowserType.launch: Executable doesn't exist at /Users/nuutti/Library/Caches/ms-playwright/chromium_headless_shell-1217/chrome-headless-shell-mac-x64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
     },
     {
       "nimi": "Ravintola Fucina",
       "url": "https://ravintolapalvelut.iss.fi/ravintola-fucina/",
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
-      "paiva": "18.9.2026",
-      "ruoat": [
-        "Keitto: Kaalikeittoa",
-        "Lounas: Välimerellinen tomaatti-kanapastakastike",
-        "Lounas: Porolasagnea",
-        "Lounas: Spaghettia",
-        "Lounas: Sitruuna-basilikaraviolit",
-        "Lounas: Kasvisvaihtoehto",
-        "Lounas: Salvialla maustettu juurespastakastike",
-        "Lounas: Pizza",
-        "Lounas: Pizza Margherita & Pizza Kebab",
-        "Jälkiruoka: Jäätelöbaari"
-      ],
-      "virhe": null
+      "paiva": "21.9.2026",
+      "ruoat": [],
+      "virhe": "BrowserType.launch: Executable doesn't exist at /Users/nuutti/Library/Caches/ms-playwright/chromium_headless_shell-1217/chrome-headless-shell-mac-x64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
     },
     {
       "nimi": "Factory Pitäjänmäki",
       "url": "https://ravintolafactory.com/lounasravintolat/ravintolat/helsinki-pitajanmaki/",
       "auki": "10:00–14:00",
       "hinta": "13,20 €",
-      "paiva": "18.9.2026",
+      "paiva": "21.9.2026",
       "ruoat": [
-        "Kermainen lohikeitto runsaalla tuoreella tillillä",
-        "Rapeat paneroidut porsaanleikkeet (VL) bearnaisekastike (VL) rapeat lohkoperunat",
-        "Kanan paistileikettä provencen tapaan basilikalla maustettuna (M+G) basmatiriisi",
-        "Frutti di mare -pizza tuoreella rucolalla",
-        "Raikas ranskalainen tofu-ratatouille edamamepavuilla",
-        "Mokkapalat",
-        "Henkilökuntamme auttaa mielellään allergeeneihin ja raaka-aineisiin liittyvissä kysymyksissä."
+        "Peruna-purjososekeitto",
+        "Paistettua lohta teriyaki-glaseerauksella (M+G) perunamuusi (L+G) tilli-kermaviili",
+        "Mureaa porsaan ulkofileetä kermaisella metsäsienikastikkeella",
+        "Nepalilainen Palak Paneer täyteläisessä currykastikkeessa (VL+G+VS) basmatiriisi",
+        "Kreikkalainen Härkis-moussaka vegaanisella juustolla",
+        "Wienin suklaakakku"
       ],
       "virhe": null
     },
@@ -79,16 +58,22 @@
       "url": "https://www.sodexo.fi/ravintolat/ravintola-valaja",
       "auki": "10:30–13:00",
       "hinta": "14,00 €",
-      "paiva": "18.9.2026",
-      "ruoat": [],
-      "virhe": "Päivän listaa ei löydy"
+      "paiva": "21.9.2026",
+      "ruoat": [
+        "Lounasbuffet: Pannupaistettua wienerleikettä & wienerleikkeen lisukkeet\nValajan savukirjolohi pastaa sitruunalla\nPalak Paneer -juustocurrya & ananas chutney\nBasmatiriisiä & Mausteisia lohkoperunoita\nKermainen herkkusienikeitto\nPäivän paistetut kasvikset",
+        "Grill: Sitruunaruoholla maustettua broileria & riisinuudelisaalaattia, sekä tuoreita yrttejä",
+        "Grill: Sitruunaruoholla maustettua tofua & riisinuudelisaalaattia, sekä tuoreita yrttejä",
+        "Delisalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erillaista proteiinia",
+        "Jälkiruoka: Jäätelöpuikko valikoima, jota on saatavilla rajoitetusti, sekä vastuullista kahvia & teetä"
+      ],
+      "virhe": null
     },
     {
       "nimi": "Talin Kartano",
       "url": "https://www.ravintolatali.fi/lounas",
       "auki": "11:00–14:00",
       "hinta": "15,00 €",
-      "paiva": "18.9.2026",
+      "paiva": "21.9.2026",
       "ruoat": [
         "(Ruokalista julkaistaan kuvana – katso ravintolan sivu)"
       ],
