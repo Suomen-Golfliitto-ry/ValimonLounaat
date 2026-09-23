@@ -1,22 +1,20 @@
 {
-  "paivitetty": "2026-09-22T10:01:49.212610",
+  "paivitetty": "2026-09-23T10:00:14.034432",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
       "url": "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/helsinki/lasihelmi/",
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
-      "paiva": "22.9.2026",
+      "paiva": "23.9.2026",
       "ruoat": [
-        "Lasihelmen amerikkalaisia chili-jauhelihapihvejä",
-        "Kermaperunoita",
-        "Cheddarkastiketta ja jalapenoja L,G",
-        "Katkarapuja,kirjolohta, rigatonipastaa ja tilliä",
-        "Pastajuustoa",
-        "Paahdettua tofua ja riisiä Pad Kra Pao",
-        "Parsakaalisosekeittoa",
-        "Puutarhamarja-ruismurupaistosta",
-        "Kinuskikermavaahtoa"
+        "VÄLIMEREN RISTEILY TEEMAPÄIVÄ",
+        "Tatti-herkkusienirisottoa L,G,A",
+        "Munakoiso-kasvismoussakaa L,G,A,VS",
+        "Toscanan kanaa L,G,A,VS",
+        "Serranokinkku-pepperoni-parmesan aretsaanipizzaa Lasihelmen tapaan",
+        "Runsas salaattipöytä täynnä välimerellisiä makuja",
+        "Kreikkalaista hunaja-pistaasipähkinäkakkua L,A"
       ],
       "virhe": null
     },
@@ -25,7 +23,7 @@
       "url": "https://ravintolapalvelut.iss.fi/fero/",
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
-      "paiva": "22.9.2026",
+      "paiva": "23.9.2026",
       "ruoat": [],
       "virhe": "BrowserType.launch: Executable doesn't exist at /Users/nuutti/Library/Caches/ms-playwright/chromium_headless_shell-1217/chrome-headless-shell-mac-x64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
     },
@@ -34,7 +32,7 @@
       "url": "https://ravintolapalvelut.iss.fi/ravintola-fucina/",
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
-      "paiva": "22.9.2026",
+      "paiva": "23.9.2026",
       "ruoat": [],
       "virhe": "BrowserType.launch: Executable doesn't exist at /Users/nuutti/Library/Caches/ms-playwright/chromium_headless_shell-1217/chrome-headless-shell-mac-x64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     playwright install                                     ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
     },
@@ -43,14 +41,14 @@
       "url": "https://ravintolafactory.com/lounasravintolat/ravintolat/helsinki-pitajanmaki/",
       "auki": "10:00–14:00",
       "hinta": "13,20 €",
-      "paiva": "22.9.2026",
+      "paiva": "23.9.2026",
       "ruoat": [
-        "Pehmeän tulinen bataatti-savuchilikeitto",
-        "Factoryn lihapullat rommi-kermakastikkeessa (L+G+VS) rosmariini-paahdetut lohkoperunat",
-        "Kana Tikka Masala tomaattisessa valkosipuli-currykastikkeessa (L+G+VS) basmatiriisi",
-        "Itse tehdyt pinaattiohukaiset (L) puolukkahillo",
-        "Mango-glaseerattuja grillattuja tuoreita kasviksia ja tofua auringonkukansiemenillä (VE+G+VS) basmatiriisi",
-        "Factoryn herkullinen jäätelöbaari"
+        "Kermainen kantarellikeitto",
+        "Tandoori-jogurtissa paahdettua kanan rintafileetä (M+G+VS) basmatiriisi",
+        "Punaviinikastikkeessa haudutettu burgundinpata (M+G+VS+liha 100% nauta) Lyonin perunat",
+        "Aurajuustolla gratinoituja kaaleja bearnaisekastikkeella maustettuna",
+        "Grillattuja tex mex -kasviksia tofulla ja chipotle-chili -glaseerauksella (VE+G+VS) basmatiriisi",
+        "Domino-Oreo -mousse"
       ],
       "virhe": null
     },
@@ -59,12 +57,13 @@
       "url": "https://www.sodexo.fi/ravintolat/ravintola-valaja",
       "auki": "10:30–13:00",
       "hinta": "14,00 €",
-      "paiva": "22.9.2026",
+      "paiva": "23.9.2026",
       "ruoat": [
-        "Lounasbuffet: Rapeaa possunniskaa & sinappikastiketta\nMarry Me! kastiketta kananpojalla\ntse tehdyt pinaattiohukaiset & puolukkasurvosta\nTomaattikeitto\nChili muhennettuja perunoita \nPilahviriisiä\nPäivän paistetut kasvikset\n",
-        "Bowl Mood: Kananpoikaa seesami-valkosipuli kastikkeella, thai kurkkusalaatilla, jasminriisiä & tuoreita yrttejä",
-        "Bowl Mood: Tofua seesami & valkosipuli kastikkeella, thai-kurkkusalaatti, jasminriisiä & tuoreita yrttejä",
-        "Delisalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erillaista proteiinia"
+        "Lounasbuffet: Paistettua broileria & yrttinen chimichurri kastike\nSavulohimurekepihviä & minttuherneitä\nValajan pinaatti-munakoiso lasagnea\nBataattikeitto\nTartar kastiketta & vegaaninen aioli\nPaahdettua perunaa ja riisiä\nPäivän kasvikset",
+        "Bowl Mood: Naudanlihaa Gochujang kastikkeella, jasminriisiä, tuoreita yrttejä, marinoituja kurkkuja & kimchiä",
+        "Bowl Mood: Tofua Gochujang kastikkeella, jasminriisiä, tuoreita yrttejä, marinoituja kurkkuja & kimchiä",
+        "Delisalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erillaista proteiinia",
+        "Jälkiruoka: Raikas marjasmoothie, sekä vastuullista kahvia ja"
       ],
       "virhe": null
     },
@@ -73,7 +72,7 @@
       "url": "https://www.ravintolatali.fi/lounas",
       "auki": "11:00–14:00",
       "hinta": "15,00 €",
-      "paiva": "22.9.2026",
+      "paiva": "23.9.2026",
       "ruoat": [
         "(Ruokalista julkaistaan kuvana – katso ravintolan sivu)"
       ],
