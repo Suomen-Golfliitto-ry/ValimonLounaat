@@ -2,8 +2,10 @@ name: Päivitä lounaslistat
 
 on:
   schedule:
-    # 07:00 UTC arkisin = 10:00 Suomen kesäaikaa (09:00 talviaikaa)
-    - cron: '0 7 * * 1-5'
+    # GitHubin ajastin toimii vain UTC-ajassa, joten molemmat vaihtoehdot
+    # ajastetaan ja "aika"-työ päästää läpi vain sen, joka on Suomen aikaa klo 10.
+    - cron: '0 7 * * 1-5'   # = 10:00 kesäaikaa (EEST, UTC+3)
+    - cron: '0 8 * * 1-5'   # = 10:00 talviaikaa (EET, UTC+2)
   workflow_dispatch:
 
 permissions:
@@ -16,7 +18,37 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  aika:
+    runs-on: ubuntu-latest
+    outputs:
+      aja: ${{ steps.tarkista.outputs.aja }}
+    steps:
+      - id: tarkista
+        env:
+          AJASTUS: ${{ github.event.schedule }}
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Käsin käynnistetty — ajetaan."
+            echo "aja=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          # Valitaan voimassa olevan aikavyöhykkeen mukaan oikea ajastus
+          if [ "$(TZ=Europe/Helsinki date +%z)" = "+0300" ]; then
+            OIKEA='0 7 * * 1-5'   # kesäaika
+          else
+            OIKEA='0 8 * * 1-5'   # talviaika
+          fi
+          if [ "$AJASTUS" = "$OIKEA" ]; then
+            echo "Ajastus '$AJASTUS' vastaa Suomen aikaa klo 10 — ajetaan."
+            echo "aja=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Ajastus '$AJASTUS' on väärä tälle vuodenajalle — ohitetaan."
+            echo "aja=false" >> "$GITHUB_OUTPUT"
+          fi
+
   paivita:
+    needs: aika
+    if: needs.aika.outputs.aja == 'true'
     runs-on: ubuntu-latest
     env:
       TZ: Europe/Helsinki
