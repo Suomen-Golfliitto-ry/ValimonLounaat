@@ -1,21 +1,21 @@
 {
-  "paivitetty": "2026-10-13T10:24:13.307851",
+  "paivitetty": "2026-10-14T10:15:24.663088",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
       "url": "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/helsinki/lasihelmi/",
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
-      "paiva": "13.10.2026",
+      "paiva": "14.10.2026",
       "ruoat": [
-        "Lasihelmen sipuli-pannupihvejä",
-        "Perunamuusia",
-        "Puna-ahventa ja piparjuurihollandaisea",
-        "Perunamuusia",
-        "Meidän keittiön kukkakaali-manchegopihvejä",
-        "Paahdettuja yrttiperunoita",
-        "Sienestäjän metsäsienikeittoa",
-        "Kaura-omenapaistosta ja Vaniljakastiketta"
+        "Toscanan kanaa",
+        "Riisiä",
+        "Kreikkalaista Moussakaa karitsasta",
+        "Halloumi-kukkakaalikormaa ja pikkelöityä chiliä",
+        "Basmatiriisiä",
+        "Linssi-kookoskeittoa",
+        "Vanilja-jogurttipannacottaa",
+        "Hillottua kirsikkaa"
       ],
       "virhe": null
     },
@@ -24,13 +24,13 @@
       "url": "https://ravintolapalvelut.iss.fi/fero/",
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
-      "paiva": "13.10.2026",
+      "paiva": "14.10.2026",
       "ruoat": [
-        "Lounas: Täytettyjä munakoisoja mausteisella kikherne-fetatäytteellä",
-        "Lounas: Feron pyttipannua ja paistettua kananmunaa (saatavana gluteenittomana)",
-        "Lounas: Paahdettua kanaa inkivääri-jogurttikastikkeessa ja riisiä",
-        "Keitto: Bataatti-kookoskeittoa",
-        "Jälkiruoka: Mustikkapiirakkaa ja vaniljakastiketta (saatavana gluteeniton jälkiruoka)",
+        "Lounas: Tofu-maapähkinäpataa ja basmatiriisiä",
+        "Lounas: Rapeaa Pringleskanaa kurkkumajoneesia ja parmesanperunoita (saatavana gluteenittomana)",
+        "Lounas: Pasta Carbonaraa ja parmesan-raastetta (saatavana gluteenittomana)",
+        "Keitto: Kermaista parsakeittoa",
+        "Jälkiruoka: Mansikka-kinuskikäärretorttua (saatavana gluteeniton jälkiruoka)",
         "Salaatti: Katkarapusalaatti / Vuohenjuustosalaatti",
         "Burgeri: Jalapeno-burgeri chilimajoneesilla ja ranskalaisilla",
         "A La Carte: Lehtipihvi, Feron maustevoita ja ranskalaiset"
@@ -42,18 +42,18 @@
       "url": "https://ravintolapalvelut.iss.fi/ravintola-fucina/",
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
-      "paiva": "13.10.2026",
+      "paiva": "14.10.2026",
       "ruoat": [
-        "Keitto: Myskikurpitsakeittoa",
-        "Lounas: Riistakäristystä & puolukkasurvosta",
-        "Lounas: Kanttarellimuhennosta",
-        "Lounas: Perunamuusia",
-        "Lounas: Pastaa",
+        "Keitto: Juuresosekeittoa primavera",
+        "Lounas: Kanaa & pestoa",
+        "Lounas: Pyttipannua",
+        "Lounas: Salviavoissa paistettuja perunagnocceja",
+        "Lounas: Kasvisgratiinia Verdure",
         "Lounas: Kasvisvaihtoehto",
-        "Lounas: Munakoisopihvejä, karamellisipulia & vuohenjuustoa",
+        "Lounas: Caponataa (Kasvismuhennos)",
         "Lounas: Pizza",
-        "Lounas: Pizza Autunno & Pizza Pollo",
-        "Jälkiruoka: Fazerinamisu"
+        "Lounas: Pizza Autunno & Pizza Kanttarelli",
+        "Jälkiruoka: Talon marjapiirakkaa"
       ],
       "virhe": null
     },
@@ -62,12 +62,12 @@
       "url": "https://ravintolafactory.com/lounasravintolat/ravintolat/helsinki-pitajanmaki/",
       "auki": "10:00–14:00",
       "hinta": "13,20 €",
-      "paiva": "13.10.2026",
+      "paiva": "14.10.2026",
       "ruoat": [
-        "Täyteläinen metsäsienikeitto",
-        "Rapeaksi paneroidut porsaanleikkeet (VL) bearnaisekastike (VL+G) paistettu kasvisriisi",
-        "Paistettua kanan paistileikettä cafe de paris -voisulalla (L+G+VS) paistetut perunat",
-        "Grillattua parsakaalia ja kukkakaalia rapealla tofulla ja paahdetuilla kurpitsansiemenillä",
+        "Tom Yam -rapukeitto",
+        "Tee-se-itse-pulled pork hampurilainen: pulled pork-nyhtöpossu (M+G+VS) sämpylä (VE) ranskalaiset (VE+G) marinoitu sipuli (VE+G) cheddarjuustokastike (L+G) aioli",
+        "Rapeaksi paistettua paneroitua kampelaa (VL) basmatiriisi (VE+G) aioli",
+        "Itse tehdyt kasvispihvit tofumurulla",
         "Factoryn letut (L) oman keittiön mansikkahillo (VE+G) vaniljavaahto (L+G) jäätelö"
       ],
       "virhe": null
@@ -77,13 +77,13 @@
       "url": "https://www.sodexo.fi/ravintolat/ravintola-valaja",
       "auki": "10:30–13:00",
       "hinta": "14,00 €",
-      "paiva": "13.10.2026",
+      "paiva": "14.10.2026",
       "ruoat": [
-        "Lounasbuffet: Pannu paistettua Broilerin filepihvejä\nValajan Bellmannin pannua maustekurkulla & punajuurella\nTalon kasvis-quiche piirakkaa\nPesto-kasvismistronekeitto\nPippurikastiketta\nRucola pestoa\nPersiljaperunat \nRiisiä\nCaponata kasviksia\n",
-        "Bowl Mood: Valajan Butter Chicken basmatiriisillä, kurkkuraidalla & tuoreilla yrteillä",
-        "Bowl Mood: Valajan Butter Tofu basmatiriisillä, kurkkuraidalla & tuoreilla yrteillä",
+        "Lounasbuffet: Rapeaa possunniskaa & sinappikastiketta\nLohipyöryköitä & voi-valkoviinikastiketta\nItse tehdyt pinaattiohukaiset & puolukkasurvosta\nMausteista tomaatti-linssikeittoa\nTalon Perunamuusia\nPilahviriisiä\nPäivän paistetut kasvikset",
+        "Bowl Mood: Korean Fried Chicken, jasminriisiä, marinoitua kurkkua & tuoreita yrttejä",
+        "Bowl Mood: Korean Fried Tofu, jasminriisiä, marinoitua kurkkua & tuoreita yrttejä",
         "Delisalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erilaista proteiinia",
-        "Jälkiruoka: Valajan Pappilan hätävaraa suklaan ja marjan makuisena, vastuullista kahvia & teetä"
+        "Jälkiruoka: Päivän keksivalikoima, sekä vastuullista kahvia & teetä"
       ],
       "virhe": null
     },
@@ -92,7 +92,7 @@
       "url": "https://www.ravintolatali.fi/lounas",
       "auki": "11:00–14:00",
       "hinta": "15,00 €",
-      "paiva": "13.10.2026",
+      "paiva": "14.10.2026",
       "ruoat": [
         "(Ruokalista julkaistaan kuvana – katso ravintolan sivu)"
       ],
