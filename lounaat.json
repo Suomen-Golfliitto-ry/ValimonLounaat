@@ -1,19 +1,23 @@
 {
-  "paivitetty": "2026-10-30T10:05:50.065666",
+  "paivitetty": "2026-11-02T10:05:54.631089",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
       "url": "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/helsinki/lasihelmi/",
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
-      "paiva": "30.10.2026",
+      "paiva": "2.11.2026",
       "ruoat": [
-        "HURJA HALLOWEEN LOUNAS",
-        "Herra Hu Huun kurpitsa-Halloumlasagnea A,VS, Pyyd G",
-        "Tulinen ja täyteläinen tomaattikeitto L,G,A,VS",
-        "Paholaisen kanaa L,M,G Valkosipuliperunaa L,G,A ja Paholaisen majo L,VS,A,G",
-        "Hirveä hot dog baari: Nacho-kana dog, nakki dog, Chimichurri-kasvis dog ja hullun hauskat lisukkeet L,A",
-        "Karkki vai kepponen Halloween torttua A"
+        "Smetana kirjolohifilee",
+        "Sitruunaa",
+        "Perunamuusia",
+        "Bolognesekastiketta",
+        "Spagettia yrttiöljyllä",
+        "Paahdettuja kauden juureksia L,M,G,Veg",
+        "Härkis-kasvismoussaka L,G,A,VS",
+        "Purjo-perunasosekeittoa",
+        "Mustaherukkarahkaa",
+        "Talon suolakinuskia"
       ],
       "virhe": null
     },
@@ -22,15 +26,15 @@
       "url": "https://ravintolapalvelut.iss.fi/fero/",
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
-      "paiva": "30.10.2026",
+      "paiva": "2.11.2026",
       "ruoat": [
-        "Lounas: Paneroitua tofua, vegaanista aiolia ja paahdettuja perunoita",
-        "Lounas: Pizzabuffet: BBQ-kanapizzaa ja Kolmen juuston pizza",
-        "Lounas: Lyonin kanaa ja mausteriisiä",
-        "Keitto: Maa-artisokkakeittoa",
-        "Jälkiruoka: Suklaa-lakubrownieta ja vaniljajäätelöä (saatavana gluteeniton jälkiruoka)",
-        "Salaatti: Savulohisalaatti/Halloum-juustosalaatti",
-        "Burgeri: Pekoniburgeri, majoneesia ja ranskalaisia",
+        "Lounas: Uunifetapastaa, kirsikkatomaatteja ja yrttiöljyä",
+        "Lounas: Ruispaneroitua puna-ahventa, tillikermaviiliä ja tilliperunoita",
+        "Lounas: Broileria täyteläisessä maapähkinäkastikkeessa ja kurkumariisiä",
+        "Keitto: Kurpitsasosekeittoa",
+        "Jälkiruoka: Vanilja-mustikkarahkaa",
+        "Salaatti: Kana-caesar- salaatti/Mozzarellasalaatti",
+        "Burgeri: Pekoniburgeri, ranskalaisia ja majoneesia",
         "A La Carte: Lehtipihvi, Feron maustevoita ja ranskalaiset"
       ],
       "virhe": null
@@ -40,36 +44,23 @@
       "url": "https://ravintolapalvelut.iss.fi/ravintola-fucina/",
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
-      "paiva": "30.10.2026",
-      "ruoat": [
-        "Keitto: Tomaatti-mozzarellikeitto",
-        "Lounas: Nyhtökaurabolognese",
-        "Lounas: Kanaa Pollo Toscana",
-        "Lounas: Pasta Frutti Di Mare",
-        "Lounas: Pastaa",
-        "Lounas: Ravioleita",
-        "Lounas: Kasvisvaihtoehto",
-        "Lounas: Peperonataa",
-        "Lounas: Pizza",
-        "Lounas: Pizza Margherita & Pizza Pekoni-Tryffeli",
-        "Jälkiruoka: Tuplasuklaatriffle"
-      ],
-      "virhe": null
+      "paiva": "2.11.2026",
+      "ruoat": [],
+      "virhe": "Päivän listaa ei löydy"
     },
     {
       "nimi": "Factory Pitäjänmäki",
       "url": "https://ravintolafactory.com/lounasravintolat/ravintolat/helsinki-pitajanmaki/",
       "auki": "10:00–14:00",
       "hinta": "13,20 €",
-      "paiva": "30.10.2026",
+      "paiva": "2.11.2026",
       "ruoat": [
-        "Noidan taikapadan kermainen lohikeitto",
-        "Tee-se-itse Frankensteinin hirviön kanaburgeri kanafileet (M) sämpylä (VE) ranskalaiset (VE+G) marinoitu sipuli (VE+G) cheddarjuustokastike (L+G) paprika-aioli",
-        "Draculan yön yli haudutettu naudanpaisti tummassa punaviini-timjamikastikkeessa",
-        "basmatiriisiä",
-        "Kummituspuutarhan kasvispihvit Härkiksellä ja sitrus-vinaigretella",
-        "Draculan syntisen herkullinen tiramisu",
-        "Henkilökuntamme auttaa mielellään allergeeneihin ja raaka-aineisiin liittyvissä kysymyksissä."
+        "Rapu-kookoskeitto",
+        "Paistettua lohta teriyaki-glaseerauksella (M+G+VS) perunamuusi (L+G) tilli-kermaviili",
+        "Gratinoidut uunimakkarat tomaattisella Koskenlaskija-juustokastikkeella (L+G) perunamuusi",
+        "Buffalo-chilikastikkeella maustettu kana Mac & Cheese cheddarjuustolla",
+        "Paahdettua bataattia ja kauden kasviksia masalakastikkeessa (VE+G+VS) basmatiriisi",
+        "Leivoslajitelma"
       ],
       "virhe": null
     },
@@ -78,13 +69,14 @@
       "url": "https://www.sodexo.fi/ravintolat/ravintola-valaja",
       "auki": "10:30–13:00",
       "hinta": "14,00 €",
-      "paiva": "30.10.2026",
+      "paiva": "2.11.2026",
       "ruoat": [
-        "Lounasbuffet: Perjantain Mexican buffet - Rakenna omat\nBeef tacot\nChipotle chicken tacoja\nSpicy pepper and bean burritot\nMexican salsaa\nCheddar kastiketta\nSour cream & chives\nSweet & sour red onions",
-        "Bowl Mood: Valajan Classic burger, sipuli-pekonihillolla, monterrey jack juustolla ja maalaisperunoilla",
-        "Bowl Mood: Halloumi hampurilainen & maalaisranskalaiset",
-        "Delisalaatti: Valajan Caesar salaatti broilerilla tai katkaravuilla",
-        "Jälkiruoka: Suklaa moussea, laadukasta & vastuullista kahvia  ja teetä"
+        "Lounasbuffet: Maanantain leikepäivä porsaasta & broilerista\nValajan kermaista savukirjolohikeittoa\nCurrymajoneesia\nTuhdit kermaperunat\nPaistettua perunaa\nTomaattikeittoa\nPäivän paahdetut kasvikset",
+        "Bowl Mood: Sitruunaruoholla maustettua broileria & riisinuudelisalaattia, sekä tuoreita yrttejä",
+        "Bowl Mood: Sitruunaruoholla maustettua tofua & riisinuudelisalaattia, sekä tuoreita yrttejä",
+        "Perjantai baari: Harissa coleslaw\nMarokkolaisia porkkanoita ja harissaa\nPikkelöityjä kasviksia\nMarinoitu punakaali-hummussalaatti \nVihreää tabboulehia",
+        "Delisalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erilaista proteiinia",
+        "Jälkiruoka: Valajan jäätelö valikoima ja vastuullista kahvia, sekä teetä"
       ],
       "virhe": null
     },
@@ -93,7 +85,7 @@
       "url": "https://www.ravintolatali.fi/lounas",
       "auki": "11:00–14:00",
       "hinta": "15,00 €",
-      "paiva": "30.10.2026",
+      "paiva": "2.11.2026",
       "ruoat": [
         "(Ruokalista julkaistaan kuvana – katso ravintolan sivu)"
       ],
