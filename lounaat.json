@@ -1,23 +1,23 @@
 {
-  "paivitetty": "2026-11-02T10:05:54.631089",
+  "paivitetty": "2026-11-03T10:05:06.867389",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
       "url": "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/helsinki/lasihelmi/",
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
-      "paiva": "2.11.2026",
+      "paiva": "3.11.2026",
       "ruoat": [
-        "Smetana kirjolohifilee",
-        "Sitruunaa",
-        "Perunamuusia",
-        "Bolognesekastiketta",
-        "Spagettia yrttiöljyllä",
-        "Paahdettuja kauden juureksia L,M,G,Veg",
-        "Härkis-kasvismoussaka L,G,A,VS",
-        "Purjo-perunasosekeittoa",
-        "Mustaherukkarahkaa",
-        "Talon suolakinuskia"
+        "Rapeaa taco fried Chicken A,G,L,M",
+        "Hunaja-lime majo A,G,L,M",
+        "Kaalikääryleitä ja puolukkaa L,M,G",
+        "Perunamuusia L,G,A,ILM",
+        "Bataatti-maissipihvejä",
+        "Paahdettua perunaa",
+        "Ruohosipuli creme fraice L,G,A",
+        "Linssisosekeittoa",
+        "Talon raparperi-murupiirakkaa",
+        "Vaniljakermavaahtoa"
       ],
       "virhe": null
     },
@@ -26,13 +26,13 @@
       "url": "https://ravintolapalvelut.iss.fi/fero/",
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
-      "paiva": "2.11.2026",
+      "paiva": "3.11.2026",
       "ruoat": [
-        "Lounas: Uunifetapastaa, kirsikkatomaatteja ja yrttiöljyä",
-        "Lounas: Ruispaneroitua puna-ahventa, tillikermaviiliä ja tilliperunoita",
-        "Lounas: Broileria täyteläisessä maapähkinäkastikkeessa ja kurkumariisiä",
-        "Keitto: Kurpitsasosekeittoa",
-        "Jälkiruoka: Vanilja-mustikkarahkaa",
+        "Lounas: Kreikkalaistyylistä pyttipannua tofulla",
+        "Lounas: Nachokuorrutettua broileria, paahdetut perunat ja paprikamajoneesia",
+        "Lounas: Klassista burgundinpataa ja yrttiriisiä",
+        "Keitto: Tomaattista linssikeittoa",
+        "Jälkiruoka: Mansikka-raparperipaistosta ja vaniljavaahtoa",
         "Salaatti: Kana-caesar- salaatti/Mozzarellasalaatti",
         "Burgeri: Pekoniburgeri, ranskalaisia ja majoneesia",
         "A La Carte: Lehtipihvi, Feron maustevoita ja ranskalaiset"
@@ -44,23 +44,34 @@
       "url": "https://ravintolapalvelut.iss.fi/ravintola-fucina/",
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
-      "paiva": "2.11.2026",
-      "ruoat": [],
-      "virhe": "Päivän listaa ei löydy"
+      "paiva": "3.11.2026",
+      "ruoat": [
+        "Keitto: Porkkana-pähkinävoikeitto",
+        "Lounas: Provencen tomaatti-yrttikana",
+        "Lounas: Perinteinen jauhelihakastike",
+        "Lounas: Rummo spagettia",
+        "Lounas: Perunamuusia & gratiinikasviksia",
+        "Lounas: Kasvisvaihtoehto",
+        "Lounas: Ricotta cannelloneja, herkkusieni ja misovoita",
+        "Lounas: Pizza",
+        "Lounas: Pizza Margherita & Pizza Quattro Stagioni",
+        "Jälkiruoka: Sitruunaposset"
+      ],
+      "virhe": null
     },
     {
       "nimi": "Factory Pitäjänmäki",
       "url": "https://ravintolafactory.com/lounasravintolat/ravintolat/helsinki-pitajanmaki/",
       "auki": "10:00–14:00",
       "hinta": "13,20 €",
-      "paiva": "2.11.2026",
+      "paiva": "3.11.2026",
       "ruoat": [
-        "Rapu-kookoskeitto",
-        "Paistettua lohta teriyaki-glaseerauksella (M+G+VS) perunamuusi (L+G) tilli-kermaviili",
-        "Gratinoidut uunimakkarat tomaattisella Koskenlaskija-juustokastikkeella (L+G) perunamuusi",
-        "Buffalo-chilikastikkeella maustettu kana Mac & Cheese cheddarjuustolla",
-        "Paahdettua bataattia ja kauden kasviksia masalakastikkeessa (VE+G+VS) basmatiriisi",
-        "Leivoslajitelma"
+        "Valkoviinillä maustettu tomaatti-basilikakeitto (VE+G+VS) krutonki",
+        "Factoryn lihapullat tummalla viherpippurikastikkeella (L+G+VS) paistetut perunat",
+        "Jogurttimarinoidut kanan paistileikkeet tandoorikastikkeessa (L+G+VS) basmatiriisi",
+        "Itse tehdyt pinaattiohukaiset (L) puolukkahillo",
+        "Tex mex -papumuhennos jalapenolla ja Härkiksellä (VE+G+VS) basmatiriisi",
+        "Factoryn jäätelöbaari"
       ],
       "virhe": null
     },
@@ -69,14 +80,15 @@
       "url": "https://www.sodexo.fi/ravintolat/ravintola-valaja",
       "auki": "10:30–13:00",
       "hinta": "14,00 €",
-      "paiva": "2.11.2026",
+      "paiva": "3.11.2026",
       "ruoat": [
-        "Lounasbuffet: Maanantain leikepäivä porsaasta & broilerista\nValajan kermaista savukirjolohikeittoa\nCurrymajoneesia\nTuhdit kermaperunat\nPaistettua perunaa\nTomaattikeittoa\nPäivän paahdetut kasvikset",
-        "Bowl Mood: Sitruunaruoholla maustettua broileria & riisinuudelisalaattia, sekä tuoreita yrttejä",
-        "Bowl Mood: Sitruunaruoholla maustettua tofua & riisinuudelisalaattia, sekä tuoreita yrttejä",
-        "Perjantai baari: Harissa coleslaw\nMarokkolaisia porkkanoita ja harissaa\nPikkelöityjä kasviksia\nMarinoitu punakaali-hummussalaatti \nVihreää tabboulehia",
+        "Lounasbuffet: Valajan ylikypsää bbq-porsasta\nPaistetut ruismuikut\nHummus-vege lasagnea a la Baba Foods\nLinssi & Kookoskeitto\nPersilja-voi perunat\nLime majoneesi\nPäivän paistetut kasvikset\n",
+        "Bowl Mood: Hummuslautanen shawarma broilerilla, pitaleivällä & tuoreilla yrteillä",
+        "Bowl Mood: Hummuslautanen matbucha kastikkeella & kananmunilla, pitaleivällä & tuoreilla yrteillä",
+        "Lounas: Naudanliha-pekoni ragu",
+        "Lounas 2: Porsasta Teriyaki-chilikastikkeella & kasviksilla, jasminriisiä & tuoreita yrttejä",
         "Delisalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erilaista proteiinia",
-        "Jälkiruoka: Valajan jäätelö valikoima ja vastuullista kahvia, sekä teetä"
+        "Jälkiruoka: Talon rahka, sekä vastuullista kahvia & teetä"
       ],
       "virhe": null
     },
@@ -85,7 +97,7 @@
       "url": "https://www.ravintolatali.fi/lounas",
       "auki": "11:00–14:00",
       "hinta": "15,00 €",
-      "paiva": "2.11.2026",
+      "paiva": "3.11.2026",
       "ruoat": [
         "(Ruokalista julkaistaan kuvana – katso ravintolan sivu)"
       ],
