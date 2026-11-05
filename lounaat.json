@@ -1,20 +1,21 @@
 {
-  "paivitetty": "2026-11-04T10:05:31.473200",
+  "paivitetty": "2026-11-05T10:05:09.605677",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
       "url": "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/helsinki/lasihelmi/",
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
-      "paiva": "4.11.2026",
+      "paiva": "5.11.2026",
       "ruoat": [
-        "Broileria ja penneä limonellokastikkeessa A,L,VS",
-        "Lasihelmen isot lihapyörykät ruskeassa kermakastikkeessa L,A",
-        "Perunamuusia L,G,A,ILM",
-        "Meidän keittiön porkkanaohukaisia",
-        "Puolukkaa",
-        "Kukkakaalisosekeittoa",
-        "Puutarha-ruismurupaistosta ja vaniljakastiketta L,A pyyd G,Veg"
+        "Porsaan ulkofileetä",
+        "Täyteläistä pippurikastiketta",
+        "Perunamuusia",
+        "Meidän keittiön kirjolohipihvejä ja tuoretta tilliä",
+        "Tillijogurttia",
+        "Paneer Koseli -leipäjuustokastiketta ja riisiä",
+        "Hernesosekeittoa",
+        "Lasihelmen pannukakkua, hilloa ja kermavaahtoa L,A, pyyd G"
       ],
       "virhe": null
     },
@@ -23,13 +24,13 @@
       "url": "https://ravintolapalvelut.iss.fi/fero/",
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
-      "paiva": "4.11.2026",
+      "paiva": "5.11.2026",
       "ruoat": [
-        "Lounas: Tofu-Limonellopastaa",
-        "Lounas: Kermaista kylmäsavulohipastaa ja tilliöljyä",
-        "Lounas: Feron jätti-naudanlihapyöryköitä, pippurikastiketta ja kermaperunoita",
-        "Keitto: Paahdettua kukkakaalisosekeittoa",
-        "Jälkiruoka: Feron tiramisua ja kahvia (saatavana gluteenittomana)",
+        "Lounas: Halloumi-kesäkurpitsavuokaa",
+        "Lounas: Porsaanleikettä, dijon-kermakastikketta ja ranskalaisia",
+        "Lounas: Kampelaa kermaisessa tilli-valkoviinikastikkeessa ja perunoita",
+        "Keitto: Porkkana-inkiväärisosekeittoa",
+        "Jälkiruoka: Talon pannukakkua, hilloa ja kermavaahtoa (saatavana gluteenittomia lettuja)",
         "Salaatti: Kana-caesar- salaatti/Mozzarellasalaatti",
         "Burgeri: Pekoniburgeri, ranskalaisia ja majoneesia",
         "A La Carte: Lehtipihvi, Feron maustevoita ja ranskalaiset"
@@ -41,18 +42,19 @@
       "url": "https://ravintolapalvelut.iss.fi/ravintola-fucina/",
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
-      "paiva": "4.11.2026",
+      "paiva": "5.11.2026",
       "ruoat": [
-        "Keitto: Curry-kookoskeitto",
-        "Lounas: Possunkylkeä cola bbq:lla",
-        "Lounas: Crispy chicken-filee, bernaichemajoneesilla ja Fucinan chilihunajalla",
-        "Lounas: Melanzane alla parmigiana",
-        "Lounas: Paahdettuja Minipottuja & Polenta ranskalaisia",
+        "Keitto: Punajuuri-Pecorinokeittoa",
+        "Lounas: Pilpil-lohta ja rapuja",
+        "Lounas: Parmesaani-katsukana",
+        "Lounas: Sitruunayrttiriisiä",
+        "Lounas: Rosmariiniperunoita",
+        "Lounas: Lämmintä kasvissalaattia",
         "Lounas: Kasvisvaihtoehto",
-        "Lounas: Peperonataa",
+        "Lounas: Rapeaa tofua ja miso-seesamikastiketta",
         "Lounas: Pizza",
-        "Lounas: Pizza Margherita & Pizza Tonno Russo",
-        "Jälkiruoka: Mutakakkua, kermavaahtoa ja marjoja"
+        "Lounas: Pizza Margherita & Pancetta: bbq, pekoni, punasipuli, mozzarella",
+        "Jälkiruoka: Creme brulee"
       ],
       "virhe": null
     },
@@ -61,14 +63,14 @@
       "url": "https://ravintolafactory.com/lounasravintolat/ravintolat/helsinki-pitajanmaki/",
       "auki": "10:00–14:00",
       "hinta": "13,20 €",
-      "paiva": "4.11.2026",
+      "paiva": "5.11.2026",
       "ruoat": [
-        "Siskonmakkarakeitto",
-        "Nepalilainen Butter Chicken (L+G+VS+Sis. pähkinä) basmatiriisi",
-        "Fish & Chips – rapeaksi paistettua paneroitua kampelaa (VL) ranskalaiset (VE+G) suolakurkku majoneesi",
-        "Porsaanliha-kasviswokki teriyakikastikkeella (M+VS) basmatiriisi",
-        "Kaurakermainen kasvispasta pinaatilla ja tofulla",
-        "Omena-puolukkapiirakka (VE) vaniljakastike"
+        "Perinteinen hernekeitto savupotkalla (M+G) pilkottua sipulia",
+        "Hitaasti kypsennettyä naudan hanger steakia kermaisella pippurikastikkeella (L+G) perunamuusi",
+        "Tex mex -kanatortillat cheddarjuustolla (VL+VS) jalapeno (VE+G) creme fraiche (L+G) paahdettu sipuli",
+        "Savupekonikiusaus",
+        "Thaimaalainen vihreä curry tofulla ja kasviksilla (VE+G+VS) basmatiriisi",
+        "Factoryn letut (L) oman keittiön mansikkahillo (VE+G) vaniljavaahto (L+G) jäätelö"
       ],
       "virhe": null
     },
@@ -77,13 +79,13 @@
       "url": "https://www.sodexo.fi/ravintolat/ravintola-valaja",
       "auki": "10:30–13:00",
       "hinta": "14,00 €",
-      "paiva": "4.11.2026",
+      "paiva": "5.11.2026",
       "ruoat": [
-        "Lounasbuffet: Kananpoikaa ja yrttejä ranskalaisittain kermaisella kastikkeella\nKasvismuhennoksella täytettyjä kesäkurpitsoja, munakoisoja & paprikoita tuoretomaattikastikkeella\nMehevää uuniturskaa mausteisessa tomaattikastikkeessa\nPurjo-perunasosekeittoa\nPaahdettua yrt",
-        "Bowl Mood: Karamellisoitua porsasta ja nuoc cham kastiketta, jasminriisiä & tuoreita yrttejä",
-        "Bowl Mood: Rapeaa tofua ja nuoc cham kastiketta, jasminriisiä & tuoreita yrttejä",
+        "Lounasbuffet: Valajan jauhelihapihvejä\nBaba Foodsin Sieni-siemen pyöryköitä \nMiilunpolttajan pastakastiketta\nKotoisaa ruskeaakastiketta\nVihreä hernekreemikeitto\nPerunamuusia\nPennepastaa\nMummon kurkkuja\nPäivän kasvispaistos",
+        "Bowl Mood: Valajan kananpoikaa & kasviksia hapanimeläkastikkeella , jasminriisillä ja tuoreilla yrteillä",
+        "Bowl Mood: Valajan tofua & kasviksia hapanimeläkastikkeella , jasminriisillä ja tuoreilla yrteillä",
         "Delisalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erilaista proteiinia",
-        "Jälkiruoka: Valajan pullavanukas, sekä vastuullisesti tuotettua kahvia & teetä"
+        "Jälkiruoka: Valajan pannukakkua, sekä vastuullista kahvia & teetä"
       ],
       "virhe": null
     },
@@ -92,7 +94,7 @@
       "url": "https://www.ravintolatali.fi/lounas",
       "auki": "11:00–14:00",
       "hinta": "15,00 €",
-      "paiva": "4.11.2026",
+      "paiva": "5.11.2026",
       "ruoat": [
         "(Ruokalista julkaistaan kuvana – katso ravintolan sivu)"
       ],
