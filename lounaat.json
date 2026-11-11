@@ -1,23 +1,20 @@
 {
-  "paivitetty": "2026-11-10T10:06:54.971635",
+  "paivitetty": "2026-11-11T10:04:45.992535",
   "ravintolat": [
     {
       "nimi": "Lasihelmi",
       "url": "https://www.compass-group.fi/ravintolat-ja-ruokalistat/foodco/kaupungit/helsinki/lasihelmi/",
       "auki": "10:30–13:00",
       "hinta": "13,00 €",
-      "paiva": "10.11.2026",
+      "paiva": "11.11.2026",
       "ruoat": [
-        "Lasihelmen jauhelihapannupihvejä ja karamellisoitua sipulia L,M,A pyyd G",
-        "Kermakastiketta L,G,A",
-        "Perunamuusia",
-        "Paneroitua kampelafileetä",
-        "Sinappirelish-kermaviilikastiketta L,G,A",
-        "Meidän keittiön kukkakaali-manchegopihvejä",
-        "Salsa verde",
-        "Paahdettuja yrttiperunoita",
-        "Täyteläistä sienikeittoa",
-        "Talon Sitruunakakkua"
+        "Karitsaa, gnoccheja ja herkkusieniä",
+        "Masaman curry broilerin paistileikkeestä L,G,M,A",
+        "Paistettua riisiä",
+        "Halloumi-kukkakaalikormaa ja pikkelöityä chiliä",
+        "Linssi-kookoskeittoa",
+        "Vaniljapannacottaa",
+        "Hillottua kirsikkaa"
       ],
       "virhe": null
     },
@@ -26,13 +23,13 @@
       "url": "https://ravintolapalvelut.iss.fi/fero/",
       "auki": "10:30–13:30",
       "hinta": "13,40 €",
-      "paiva": "10.11.2026",
+      "paiva": "11.11.2026",
       "ruoat": [
-        "Lounas: Rapeaksi paistettua tofua ja paholaisenhilloa",
-        "Lounas: Feron maalaisjauhelihapihvejä pippurikastikkeessa ja yrttiperunoita",
-        "Lounas: Kanaa vuohenjuustokuorrutteella ja paholaisenhilloa",
-        "Keitto: Paahdettua tomaattikeittoa",
-        "Jälkiruoka: Puolukkapiirakkaa ja kinuskivaahtoa",
+        "Lounas: Punajuuri-vuohenjuustolasagnea",
+        "Lounas: Pankopaneroitua kanaa, hedelmä-aiolia ja yrttiriisiä",
+        "Lounas: Feron lohipyöryköitä, tillijogurttia ja perunamuusia",
+        "Keitto: Sipulikeittoa ja krutonkeja",
+        "Jälkiruoka: Pappilan hätävaraa ja kahvia (saatavana gluteenittomana)",
         "Salaatti: Tonnikalasalaatti/Vuohenjuustosalaatti",
         "Burgeri: Aurajuustoburgeri, ranskalaiset perunat ja majoneesi",
         "A La Carte: Lehtipihvi, Feron maustevoita ja ranskalaisia"
@@ -44,18 +41,18 @@
       "url": "https://ravintolapalvelut.iss.fi/ravintola-fucina/",
       "auki": "10:30–13:30",
       "hinta": "13,90 €",
-      "paiva": "10.11.2026",
+      "paiva": "11.11.2026",
       "ruoat": [
-        "Keitto: Tattikeitto",
-        "Lounas: Chorizopyöryköitä ja pancetta rustica kastiketta",
-        "Lounas: Uunikalaa Pico de Gallo",
-        "Lounas: Paahdettua valkosipuliperunaa",
-        "Lounas: Peperonata",
+        "Keitto: Vegaaninen kurpitsa-currykeitto",
+        "Lounas: Ylikypsää sticky-pork",
+        "Lounas: Kanaa ja rapuja Thai Toscana",
+        "Lounas: Rummo Pastaa",
+        "Lounas: Sitruunariisi",
         "Lounas: Kasvisvaihtoehto",
-        "Lounas: Kesäkurpistamoussaka",
+        "Lounas: Gratinoitua paprikaa",
         "Lounas: Pizza",
-        "Lounas: Pizza Margherita & Pizza Pollo Formaggio",
-        "Jälkiruoka: Mustikkarahka"
+        "Lounas: Pizza Margherita & Pizza Bolognese",
+        "Jälkiruoka: Pistaasijugurttia ja uuniomenagranolaa"
       ],
       "virhe": null
     },
@@ -64,14 +61,14 @@
       "url": "https://ravintolafactory.com/lounasravintolat/ravintolat/helsinki-pitajanmaki/",
       "auki": "10:00–14:00",
       "hinta": "13,20 €",
-      "paiva": "10.11.2026",
+      "paiva": "11.11.2026",
       "ruoat": [
-        "Pehmeän tulinen bataatti-savuchilikeitto",
-        "Rapeat paneroidut porsaanleikkeet (VL) bearnaisekastike (VL+G) paistetut perunat",
-        "Kanaa Tikka Masala tomaattisessa valkosipuli-currykastikkeessa (L+G+VS) basmatiriisi",
-        "Itse tehdyt pinaattiohukaiset (L) puolukkahillo",
-        "Vegaaninen Butter Tofu kermaisessa tomaatti-currykastikkeessa (VE+G+VS+sis.pähkinää) basmatiriisi",
-        "Factoryn jäätelöbaari"
+        "Kermainen juureskeitto",
+        "Paahdettua lohta cafe de paris -kastikkeella (VL+G+VS) perunamuusi (L+G) tilli-kermaviili",
+        "Talon lasagne mozzarellalla (L+VS+liha:100% nauta) parmesaanimuru",
+        "Talon makkara-pyttipannua runsaalla sipulilla (VL+G+VS) sinappi-kurkkusalaatti",
+        "Grillattuja tex mex -kasviksia tofulla ja chipotle-chili -glaseerauksella",
+        "Talon banoffee-piirakka (VL+Sis.pähkinää)"
       ],
       "virhe": null
     },
@@ -80,13 +77,13 @@
       "url": "https://www.sodexo.fi/ravintolat/ravintola-valaja",
       "auki": "10:30–13:00",
       "hinta": "14,00 €",
-      "paiva": "10.11.2026",
+      "paiva": "11.11.2026",
       "ruoat": [
-        "Lounasbuffet: Rapeaa possunniskaa & sinappikastiketta\nMarry Me! kastiketta kananpojalla\ntse tehdyt pinaattiohukaiset & puolukkasurvosta\nTomaattikeitto\nChili muhennettuja perunoita \nPilahviriisiä\nPäivän paistetut kasvikset\n",
-        "Bowl Mood: Panang Curry kananpojasta, jasminriisillä & tuoreilla yrteillä",
-        "Bowl Mood: Panang Curry tofusta, jasminriisillä & tuoreilla yrteillä",
+        "Lounasbuffet: Paistettua broileria & yrttinen chimichurri kastike\nKäsin taputeltua savulohimurekepihviä\nKotoisaa makaronilaatikkoa\nBataattikeitto\nTartar kastiketta & vegaaninen aioli\nPaahdettua perunaa ja riisiä\nPäivän kasvikset",
+        "Bowl Mood: Naudanlihaa Gochujang kastikkeella, jasminriisiä, tuoreita yrttejä, marinoituja kurkkuja & kimchiä",
+        "Bowl Mood: Tofua Gochujang kastikkeella, jasminriisiä, tuoreita yrttejä, marinoituja kurkkuja & kimchiä",
         "Delisalaatti: Delisalaatti vaihtuvilla kasviksilla, hedelmillä ja joka päivä vähintään kaksi erilaista proteiinia",
-        "Jälkiruoka: Kotoisaa mansikkarahkaa, vastuullista kahvia & teetä"
+        "Jälkiruoka: Raikas marjasmoothie, sekä vastuullista kahvia ja teetä"
       ],
       "virhe": null
     },
@@ -95,7 +92,7 @@
       "url": "https://www.ravintolatali.fi/lounas",
       "auki": "11:00–14:00",
       "hinta": "15,00 €",
-      "paiva": "10.11.2026",
+      "paiva": "11.11.2026",
       "ruoat": [
         "(Ruokalista julkaistaan kuvana – katso ravintolan sivu)"
       ],
